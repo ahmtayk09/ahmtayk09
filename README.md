@@ -49,7 +49,7 @@
 
 <h2>📈 GitHub İstatistiklerim</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmtayk09show_icons=true&theme=radical" alt="GitHub İstatistiklerim"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmtayk09/show_icons=true&theme=radical" alt="GitHub İstatistiklerim"/>
 </p>
 
 ---
