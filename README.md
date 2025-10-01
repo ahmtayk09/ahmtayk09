@@ -55,4 +55,4 @@
 ---
 
 <h2>💬 Bana Ulaş</h2>
-<p>Her zaman yeni projeler ve işbirlikleri için açığım. Bana <a href="mailto:email@example.com">e-posta</a> gönderebilir veya sosyal medyadan ulaşabilirsiniz.</p>
+<p>Her zaman yeni projeler ve işbirlikleri için açığım. Bana <a href="mailto:ahmtayk09@gmail.com">e-posta</a> gönderebilir veya sosyal medyadan ulaşabilirsiniz.</p>
